@@ -1,4 +1,4 @@
-package FactoryPattern;
+package factoryPattern;
 
 public class Circle implements Shape {
 

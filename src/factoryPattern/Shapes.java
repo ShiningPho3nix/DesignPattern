@@ -1,4 +1,4 @@
-package FactoryPattern;
+package factoryPattern;
 
 public enum Shapes {
 	RECTANGLE, CIRCLE, SQUARE

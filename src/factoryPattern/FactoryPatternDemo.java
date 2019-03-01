@@ -1,6 +1,6 @@
-package FactoryPattern;
+package factoryPattern;
 
-import static FactoryPattern.Shapes.*;
+import static factoryPattern.Shapes.*;
 
 import java.util.ArrayList;
 import java.util.List;
