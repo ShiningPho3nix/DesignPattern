@@ -28,5 +28,10 @@ public class BridgePatternDemo {
 
 	public static void main(String[] args) {
 
+		Shape greedCircle = new Circle(100, 1000, 10, new GreenCircle());
+		Shape redCircle = new Circle(100, 1000, 10, new RedCircle());
+
+		greedCircle.draw();
+		redCircle.draw();
 	}
 }
